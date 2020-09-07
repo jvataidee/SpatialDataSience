@@ -17,7 +17,11 @@ Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Ári
 
 ## Projetos:
 Veja os projetos publicados no meu blog:
+* **Mapeamento UFERSA:**[ Projeto](https://www.joaoataide.com/post/mapeamento-ufersa-pau-dos-ferros)
 * **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
+* **Linhas de Transmissão:**[ Projeto](https://www.joaoataide.com/post/linhas-de-transmiss%C3%A3o)
+* **Vetorização Semiautomática:**[ Projeto](https://www.joaoataide.com/post/vetoriza%C3%A7%C3%A3o-semiautom%C3%A1tica)
+* **Levantamentos Pós e Pré Processados:**[ Projeto](https://www.joaoataide.com/post/p%C3%B3s-e-pr%C3%A9-processados)
 ---
 
 
