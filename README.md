@@ -8,6 +8,8 @@
 
 Esse aqui é meu reporitório de Ciência de Dados Espaciais, neste realizou pequenos cases de estudo no qual procuro insights e hipóteses para problemas de negócio, trazendo sempre a variável espacial para o centro do negócio.
 
+**Background in:** Python, ArcGIS Pro, ArcGIS Learn, GeoPandas, OpenCV.
+
 **Links:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
