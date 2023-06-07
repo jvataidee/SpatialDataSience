@@ -19,10 +19,10 @@ You can find the projects published on his blog:
 ## Repository Content
 The repository contains various Jupyter notebooks with different Spatial Data Science projects, including:
 
-- `ARCGIS_API_LEARN_SEMANGEOAI.ipynb`
-- `Classificacao_DL_Usando_ArcGIS.ipynb`
-- `Classificacao_ML_Usando_ArcGIS.ipynb`
-- `Estimativa_evapo_transpiracao.ipynb`
+- [`ARCGIS_API_LEARN_SEMANGEOAI.ipynb`](https://github.com/jvataidee/SpatialDataSience/blob/master/ARCGIS_API_LEARN_SEMANGEOAI.ipynb)
+- [`Classificacao_DL_Usando_ArcGIS.ipynb`](https://github.com/jvataidee/SpatialDataSience/blob/master/Classificacao_DL_Usando_ArcGIS.ipynb)
+- [`Classificacao_ML_Usando_ArcGIS.ipynb`](https://github.com/jvataidee/SpatialDataSience/blob/master/Classificacao_ML_Usando_ArcGIS.ipynb)
+- [`Estimativa_evapo_transpiracao.ipynb`](https://github.com/jvataidee/SpatialDataSience/blob/master/Estimativa_evapo_transpiracao.ipynb)
 
 ## Additional Information
 - No releases published
