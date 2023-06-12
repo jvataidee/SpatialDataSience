@@ -1,4 +1,4 @@
-![Project Image](bannerr.png)
+![Project Image](SDS.png)
 
 # Spatial Data Science Repository by João Ataíde
 
