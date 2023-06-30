@@ -2,7 +2,7 @@
 
 # Spatial Data Science Repository by João Ataíde
 
-João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his projects in the field of Spatial Data Science. Here, he conducts small case studies seeking insights and hypotheses for business problems, always bringing the spatial variable to the center of the business.
+This repository is dedicated to his projects in the field of Spatial Data Science. Here, he conducts small case studies seeking insights and hypotheses for business problems, always bringing the spatial variable to the center of the business.
 
 ## Background
 João has a background in Python, ArcGIS Pro, ArcGIS Learn, GeoPandas, OpenCV.
